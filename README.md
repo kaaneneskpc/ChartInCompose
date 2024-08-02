@@ -2,8 +2,9 @@
 
 # Screenshots
 
-1- Line Chart Example
+- Line, Pie and Bar Chart Example
 
-![image](https://github.com/user-attachments/assets/b87e4f1f-5013-423d-b126-45f0bb2476a8)
+![image](https://github.com/user-attachments/assets/0b26a69f-2894-4a3d-8d35-2014ddd9f411)
+
 
 
