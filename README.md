@@ -4,7 +4,8 @@
 
 - Line, Pie and Bar Chart Example
 
-![image](https://github.com/user-attachments/assets/0b26a69f-2894-4a3d-8d35-2014ddd9f411)
+![image](https://github.com/user-attachments/assets/8091b726-c662-44db-93a0-f5014c02cce3)
+
 
 
 
